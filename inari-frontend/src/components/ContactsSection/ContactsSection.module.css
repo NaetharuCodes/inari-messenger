@@ -1,0 +1,11 @@
+.contactSection {
+    width: 460px;
+    background-color: white;
+    margin-right: 1px;
+    padding: 8px;
+}
+
+.contactList {
+    display: grid;
+    gap: 4px;
+}

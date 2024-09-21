@@ -1,0 +1,23 @@
+
+.button {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 8px;
+    cursor: pointer;
+    border: 1px solid rgb(200, 200, 200);
+    background-color: white;
+}
+
+.buttonActive {
+    background-color: rgb(70, 70, 70);
+    color: white;
+}
+
+.textContainer {
+    padding-left: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}

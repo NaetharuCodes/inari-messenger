@@ -1,0 +1,39 @@
+
+.sidebar {
+    width: 80px;
+    background: white;
+    margin-right: 1px;
+    padding: 8px;
+    display: flex;
+    flex-direction: column;
+   }
+   
+   .logoText {
+       text-align: center;
+       color: rgb(100, 190, 185);
+       font-size: 2rem;
+   }
+   
+   .logo {
+       width:70px;
+       height: 100px;
+   }
+   
+   .mainNav {
+       display: flex;
+       flex-direction: column;
+       gap: 32px;
+       justify-content: flex-start;
+       align-items: center;
+       flex-grow: 1;
+   }
+   
+   .account {
+       display: flex;
+       flex-direction: column;
+       gap: 32px;
+       justify-content: flex-start;
+       align-items: center;
+       padding-bottom: 16px;
+   }
+   
